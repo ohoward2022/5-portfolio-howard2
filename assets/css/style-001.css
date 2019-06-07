@@ -1,0 +1,12 @@
+#myVideo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+   height: auto;
+    max-width: 100%;
+}
+
+
